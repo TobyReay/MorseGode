@@ -1,3 +1,3 @@
-module github.com/TobyReay/morse-gode
+module github.com/TobyReay/MorseGode
 
 go 1.26.6
